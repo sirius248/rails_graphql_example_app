@@ -1,24 +1,17 @@
-# README
+# Rails GraphQL
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A simple rails application with GraphQL.
 
-Things you may want to cover:
+## Todo
 
-* Ruby version
+## Development
 
-* System dependencies
 
-* Configuration
+## Contributing
 
-* Database creation
+Bug reports and pull requests are welcome on GitHub at https://github.com/kimquy/rails_graphql_example_app. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
-* Database initialization
 
-* How to run the test suite
+## License
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
