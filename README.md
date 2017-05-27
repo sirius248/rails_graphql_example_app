@@ -20,7 +20,7 @@ A simple rails application with GraphQL. This simple app will do the following:
 ## Todo
 * [x] Simple query
 * Authentication
-* Mutation
+* [x] Mutation
 * Testing GraphQL system
 * Ahead-of-Time Analysis - Check incoming query strings and reject them if they don't pass your checks
 * Multiplex Run multiple queries concurrently
