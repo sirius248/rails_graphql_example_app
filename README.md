@@ -1,10 +1,23 @@
 # Rails GraphQL
 
-A simple rails application with GraphQL.
+A simple rails application with GraphQL. This simple app will do the following:
+
+* Simple query
+* Mutation (Update/Delete/Create)
+* Authentication
+* Testing GraphQL system
+* Ahead-of-Time Analysis - Check incoming query strings and reject them if they don't pass your checks
+* Multiplex Run multiple queries concurrently
 
 ![screenshot](https://cloud.githubusercontent.com/assets/2282642/26522328/5a4a1c0e-4328-11e7-92a2-032322992b33.png)
 
 ## Todo
+* [x] Simple query
+* Authentication
+* Mutation
+* Testing GraphQL system
+* Ahead-of-Time Analysis - Check incoming query strings and reject them if they don't pass your checks
+* Multiplex Run multiple queries concurrently
 
 ## Development
 
