@@ -9,6 +9,12 @@ A simple rails application with GraphQL. This simple app will do the following:
 * Ahead-of-Time Analysis - Check incoming query strings and reject them if they don't pass your checks
 * Multiplex Run multiple queries concurrently
 
+## Models in this example:
+
+![models](https://cloud.githubusercontent.com/assets/2282642/26522435/f2b63caa-432a-11e7-812c-f8642992e36d.png)
+
+## Output Example
+
 ![screenshot](https://cloud.githubusercontent.com/assets/2282642/26522328/5a4a1c0e-4328-11e7-92a2-032322992b33.png)
 
 ## Todo
