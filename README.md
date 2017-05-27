@@ -2,6 +2,8 @@
 
 A simple rails application with GraphQL.
 
+![screenshot](https://cloud.githubusercontent.com/assets/2282642/26522328/5a4a1c0e-4328-11e7-92a2-032322992b33.png)
+
 ## Todo
 
 ## Development
